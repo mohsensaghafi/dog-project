@@ -1,0 +1,10 @@
+*.DS_Store
+dogImages/
+lfw/
+.ipynb_checkpoints/
+bottleneck_features/DogResnet50Data.npz
+bottleneck_features/DogVGG16Data.npz
+testcases-backup/
+*.zip
+
+
